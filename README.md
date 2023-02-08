@@ -1,1 +1,2 @@
-another alx repo
+#!/bin/bash
+read me
