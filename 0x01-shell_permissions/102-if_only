@@ -1,0 +1,2 @@
+#!/bin/bash
+setfacl --default --modify user:betty:rwx hello
