@@ -1,2 +1,2 @@
 #!/bin/bash
-a..z{a..n,p..z}
+{a..z}{a..z} | tr'''\n'| grep -v "oo"
